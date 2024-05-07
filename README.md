@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ghavghave</h1>
 <h3 align="center">A passionate AIML from India</h3>
-<img align="right" alt="coding" width="400" src"">
+<img align="right" alt="coding" width="400" src"https://i.gifer.com/53jt.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
