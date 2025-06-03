@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Ghavghave</h1>
+<h1 align="center">Hi 👋, I'm Yash Ganesh Ghavghave</h1>
 <h3 align="center">Passionate AIML | Web & Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashghavghave&label=Profile%20views&color=0e75b6&style=flat" alt="yashghavghave" /> </p>
