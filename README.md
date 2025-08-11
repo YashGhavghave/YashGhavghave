@@ -1,71 +1,56 @@
 <!-- Hero Animation -->
 <p align="center">
-  <img src="https://pin.it/39u6xQteZ" width="300"/>
+  <img src="YOUR_SHARINGAN_GIF_URL" width="320" alt="Sharingan Hero Image">
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF3131&center=true&vCenter=true&width=600&lines=Hey!+I'm+Yash+Ghavghave+👋;Developer+%26+ML+Engineer;Lover+of+Anime+%26+Tech;Always+Learning+New+Things+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=4000&pause=500&color=FF3131&center=true&vCenter=true&width=900&lines=Hey!+I'm+Yash+Ghavghave;Developer+%2B+ML+Engineer;Anime+%26+Tech+Unleashed;Always+Learning+and+Building" alt="Typing Animation">
 </p>
 
-<!-- Header -->
-<h1 align="center">🚀 Welcome to My GitHub</h1>
-
----
-
-## 🌟 About Me  
-- 💻 Developer & Machine Learning Enthusiast  
-- 🔬 Exploring AI, Web Development, and Cloud Tech  
-- 🛠 Building **smart apps** with modern tech stacks  
-- 📚 Currently learning **Rust** and **Advanced ML Models**  
-- ⚡ Fun fact: My GitHub now has the **Mangekyō Sharingan** 👁️
-
----
-
-## 🔗 Connect With Me  
+<!-- Gradient Divider -->
 <p align="center">
-  <a href="https://linkedin.com/in/yash-ghavghave">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://kaggle.com/yash-ghavghave">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
 </p>
+
+## Welcome to My Digital Dojo
+
+I’m a **Developer** and **Machine Learning Engineer** who thrives on crafting smart, scalable systems with a dash of anime flair.  
+Whether it’s AI models, Rust-based tools, or full-stack web apps, I aim for **precision, performance, and creativity**.
 
 ---
 
-## 🛠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,css,html,nodejs,express,mongodb,mysql,git,docker,jenkins,linux,pytorch,rust" />
-</p>
+## About Me
+
+<div align="center" style="background: linear-gradient(135deg, #ff9f1c, #ff4040); padding: 20px; border-radius: 10px; color: white; font-size: 16px; line-height: 1.6;">
+Exploring AI, Web Development, and System Design.  
+Currently sharpening my skills in Rust and advanced ML architectures.  
+Fun fact: My GitHub now has the **Mangekyō Sharingan** enabled.
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashghavghave&theme=tokyonight" alt="streak stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yashghavghave&show_icons=true&theme=tokyonight" height="200"/>
-</p>
+## My Skill Levels
 
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashghavghave&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-## 🎯 Fun Facts  
-- 🧠 Can spend hours debugging and still enjoy it.  
-- ☕ Coffee is my chakra boost.  
-- 🛸 Dream project: Build an AI-powered personal assistant with anime-inspired UI.  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashghavghave&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+```text
+Python           ██████████████████  95%
+JavaScript       █████████████████░  90%
+React            ██████████████░░░  85%
+Tailwind CSS     ██████████████░░░  85%
+Rust             ████████████░░░░░  70%
+Machine Learning ██████████████░░░  88%
 
 
+GitHub Pulse
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashghavghave&show_icons=false&theme=omni" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashghavghave&theme=omni" width="45%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashghavghave&theme=react-dark&hide_border=true&area=true" width="90%" /> </p>
 
+Fun Facts (Spoiler)
+<details> <summary>Click to reveal</summary>
+Debugging is my meditation.
+
+Coffee fuels both my code and chakra.
+
+Dream: Build an anime-inspired AI personal assistant.
+
+</details>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashghavghave&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile views badge"> </p> ```
