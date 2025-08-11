@@ -1,6 +1,6 @@
 <!-- Hero Animation -->
 <p align="center">
-  <img src="[https://your-sharingan-gif-link.gif](https://www.reddit.com/r/SteamDeckBootVids/comments/1ed181b/request_naruto_sharingan_gif_to_boot_video/utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)" alt="Naruto Sharingan Animation" width="300"/>
+  <img src="https://www.reddit.com/r/SteamDeckBootVids/comments/1ed181b/request_naruto_sharingan_gif_to_boot_video/utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Naruto Sharingan Animation" width="300"/>
 </p>
 
 <!-- Typing Intro -->
@@ -66,4 +66,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashghavghave&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
 
