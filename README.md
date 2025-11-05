@@ -12,7 +12,7 @@
  I’m a **Developer** & **Machine Learning Engineer** passionate about solving problems and creating impactful solutions.  
  Currently exploring **AI**, **Web Development**, and **Cloud Tech**.  
  Learning **Rust** and advanced **ML models**.  
- Fun fact: Coffee is my chakra boost ☕.
+ Fun fact: Bournvita is my chakra boost ☕.
 
 ---
 
@@ -53,3 +53,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashghavghave&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" />
 </p>
+
